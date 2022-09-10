@@ -9,18 +9,18 @@ Languages & Libraries:
 > - Supervised Learning<br>
 > Linear Regression<br>
 > Unsupervised Learning<br>
-5. K-means<br>
-6. Python Pandas<br>
-7. Neural Network Model<br>
-8. Seaborn<br>
-9. Python Matplotlib<br>
-10. SQL Database<br>
-11. Scikit-Learn<br>
-12. PySpark<br>
-13. Java<br>
-14. Amazon AWS:<br>
-15. S3 Bucket <br>
-16. RDS Database<br>
+> 5. K-means<br>
+> 6. Python Pandas<br>
+> 7. Neural Network Model<br>
+> 8. Seaborn<br>
+> 9. Python Matplotlib<br>
+> 10. SQL Database<br>
+> 11. Scikit-Learn<br>
+> 12. PySpark<br>
+> 13. Java<br>
+> 14. Amazon AWS:<br>
+  > 15. S3 Bucket <br>
+  > 16. RDS Database<br>
 
 
 
