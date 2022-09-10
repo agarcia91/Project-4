@@ -6,21 +6,21 @@ Our challenge was to create a model for a retail owner to strategically market n
 Languages & Libraries:
 ---------------------------------------
 1. Machine Learning<br>
-2.  Supervised Learning<br>
-3.    Linear Regression<br>
-Unsupervised Learning<br>
-K-means<br>
-Python Pandas<br>
-Neural Network Model<br>
-Seaborn<br>
-Python Matplotlib<br>
-SQL Database<br>
-Scikit-Learn<br>
-PySpark<br>
-Java<br>
-Amazon AWS:<br>
-S3 Bucket <br>
-RDS Database<br>
+    -Supervised Learning<br>
+3. Linear Regression<br>
+4. Unsupervised Learning<br>
+5. K-means<br>
+6. Python Pandas<br>
+7. Neural Network Model<br>
+8. Seaborn<br>
+9. Python Matplotlib<br>
+10. SQL Database<br>
+11. Scikit-Learn<br>
+12. PySpark<br>
+13. Java<br>
+14. Amazon AWS:<br>
+15. S3 Bucket <br>
+16. RDS Database<br>
 
 
 
