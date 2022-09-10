@@ -6,8 +6,8 @@ Our challenge was to create a model for a retail owner to strategically market n
 Languages & Libraries:
 ---------------------------------------
 1. Machine Learning<br>
-  Supervised Learning<br>
-  Linear Regression<br>
+2.  Supervised Learning<br>
+3.    Linear Regression<br>
 Unsupervised Learning<br>
 K-means<br>
 Python Pandas<br>
