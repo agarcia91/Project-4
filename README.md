@@ -13,19 +13,19 @@ Our main focus was to conduct a neural network model to create a prediction that
 Languages & Libraries:
 ---------------------------------------
 1. Machine Learning<br>
-Supervised Learning > Linear Regression<br>
-Unsupervised Learning > K-means<br>
-2. Python Pandas<br>
-3. Neural Network Model<br>
-4. Seaborn<br>
-5. Python Matplotlib<br>
-6. SQL Database<br>
-7. Scikit-Learn<br>
-8. PySpark<br>
-9. Java<br>
-10 .Amazon AWS:<br>
-S3 Bucket <br>
-RDS Database<br>
+   Supervised Learning > Linear Regression<br>
+   Unsupervised Learning > K-means<br>
+ 2. Python Pandas<br>
+ 3. Neural Network Model<br>
+ 4. Seaborn<br>
+ 5. Python Matplotlib<br>
+ 6. SQL Database<br>
+ 7. Scikit-Learn<br>
+ 8. PySpark<br>
+ 9. Java<br>
+ 10. Amazon AWS:<br>
+     S3 Bucket <br>
+     RDS Database<br>
 
 
 
