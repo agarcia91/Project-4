@@ -1,6 +1,7 @@
 # Customer Personality Analysis
 
-
+Project Description:<br>
+Our challenge was to create a model for a retail owner to strategically market new items to their targeted customers based on previous purchase history.
 
 Languages & Libraries:
 ---------------------------------------
