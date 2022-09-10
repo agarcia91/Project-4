@@ -12,7 +12,7 @@ Our main focus was to conduct a neural network model to create a prediction that
 
 Languages & Libraries:
 ---------------------------------------
-1. Machine Learning<br>
+1. Machine Learning:<br>
    Supervised Learning > Linear Regression<br>
    Unsupervised Learning > K-means<br>
  2. Python Pandas<br>
