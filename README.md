@@ -3,10 +3,11 @@
 Project Description:<br>
 ------------------------------
 Our challenge was to create a model for a retail owner to strategically market new items to their targeted customers based on previous purchase history.
+<br>
 
-To start our process we gathered our dataset from Kaggle which by then we cleaned the data and utilized to visualize the customer information and create clusters through the Kmeans process to group the data to view similarities. <br>
+To start our process, we gathered our dataset from Kaggle, which then we cleaned the data and utilized to visualize the customer information and create clusters through the Kmeans process to group the data to view similarities. <br>
 
-Our main focus was to conduct a neural network model to create a prediction that would allow a retail owner to market to their target audience knowing they would purchse a specific product based on the accuracy of the model. The outcome of our prediction read a score of 87% which tells us that marketing to a specific customer would have a high probability rate that their customer would purchase the marketed product.
+Our main focus was to conduct a neural network model to create a prediction that would allow a retail owner to market to their target audience knowing they would purchase a specific product based on the accuracy of the model. The outcome of our prediction read a score of 87%, which tells us that marketing to a specific customer would have a high probability that their customer would purchase the marketed product.
 
 
 Languages & Libraries:
