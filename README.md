@@ -5,27 +5,24 @@ Our challenge was to create a model for a retail owner to strategically market n
 
 Languages & Libraries:
 ---------------------------------------
-> 1. Machine Learning<br>
-> - Supervised Learning<br>
-> Linear Regression<br>
-> Unsupervised Learning<br>
-> 5. K-means<br>
-> 6. Python Pandas<br>
-> 7. Neural Network Model<br>
-> 8. Seaborn<br>
-> 9. Python Matplotlib<br>
-> 10. SQL Database<br>
-> 11. Scikit-Learn<br>
-> 12. PySpark<br>
-> 13. Java<br>
-> 14. Amazon AWS:<br>
-  > 15. S3 Bucket <br>
-  > 16. RDS Database<br>
+1. Machine Learning<br>
+   Supervised Learning > Linear Regression<br>
+   Unsupervised Learning > K-means<br>
+ 2. Python Pandas<br>
+ 3. Neural Network Model<br>
+ 4. Seaborn<br>
+ 5. Python Matplotlib<br>
+ 6. SQL Database<br>
+ 7. Scikit-Learn<br>
+ 8. PySpark<br>
+ 9. Java<br>
+ 10. Amazon AWS:<br>
+     S3 Bucket <br>
+     RDS Database<br>
 
 
 
 [Slide deck](https://docs.google.com/presentation/d/1vwwTFIgz67pmrubQx6RQZ5KtfuzZwYH-yXXLE7bxG0k/edit#slide=id.gd9c453428_0_16)
 
 Source:
-
   [Kaggle](https://www.kaggle.com/code/roysenfeng/customer-shopping-analysis/data)
